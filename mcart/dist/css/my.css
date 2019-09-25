@@ -1,0 +1,7 @@
+.mycarousel img{
+	height: 450px;
+	object-fit: cover;
+}
+.mytext_area textarea{
+	resize: none !important;
+}
